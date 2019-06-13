@@ -1,1 +1,1 @@
-# GeometricObject
+# Inheritance
